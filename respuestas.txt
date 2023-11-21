@@ -1,0 +1,2 @@
+c: git checkout -b primera
+3: No me sale
