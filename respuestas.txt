@@ -2,3 +2,4 @@ c: git checkout -b primera
 3: No me sale
 5: No me sale
 6: No me sale
+7: grep 'Gonzalez' Alumnos.txt | wc -l
