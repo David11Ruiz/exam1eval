@@ -3,4 +3,3 @@ c: git checkout -b primera
 5: No me sale
 6: No me sale
 7: grep 'Gonzalez' Alumnos.txt | wc -l
-8: cat Alumnos.txt | sed 's/Vicente/Pepe/g'
